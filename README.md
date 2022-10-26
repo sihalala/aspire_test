@@ -7,6 +7,6 @@ Steps to install application:
 
 API is available under `127.0.0.1:8282`
 
-You can download refer to postman collection under `src/postman_collection`
+You can refer to postman collection under `src/postman_collection`
 
 Enjoy testing.
